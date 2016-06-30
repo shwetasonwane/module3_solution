@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"resource",
+				"resources"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"un",
+				"unwid"
+			],
+			[
+				"par",
+				"parse〔function〕"
+			],
+			[
+				"search",
+				"search_term"
+			],
+			[
+				"highest",
+				"highest_count_words_across_lines"
+			],
+			[
+				"highest_count",
+				"highest_count_words_across_lines"
+			],
+			[
+				"analyze",
+				"analyzers"
+			],
+			[
+				"highes",
+				"highest_count_words_across_lines"
+			],
+			[
+				"highs",
+				"highest_wf_count"
+			],
+			[
+				"anal",
+				"analyzers"
+			],
+			[
+				"todo",
+				"todo_lists"
+			],
+			[
+				"param",
+				"params"
+			],
+			[
+				"todo_items",
+				"todo_items"
+			],
+			[
+				"todo_i",
+				"todo_item"
+			],
+			[
+				"compel",
+				"completed_todoitems"
+			],
+			[
+				"todo_ite",
+				"todo_items_url"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"gender",
+				"gender_validation"
+			],
+			[
+				"ge",
+				"gender"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"todo_",
+				"todo_items"
+			],
+			[
+				"find",
+				"find_by"
+			],
+			[
+				"update",
+				"update"
+			],
+			[
+				"password",
+				"password_digest"
+			],
+			[
+				"due",
+				"due_date"
+			],
+			[
+				"su",
+				"sucre"
+			],
+			[
+				"cel",
+				"celdas"
+			],
+			[
+				"aritas",
+				"aristas"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2785,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 217.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ista",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 481.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Course 4 - Assignment 3/main.css",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/views/races/show.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/views/races/show.html.erb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/views/races/new.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/views/races/new.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/views/racers/new.html.erb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/views/races/index.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/views/races/index.html.erb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/views/races/_form.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/views/races/_form.html.erb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/views/races/edit.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/views/races/edit.html.erb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/views/racers/new.html.erb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/views/racers/index.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/views/racers/index.html.erb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/views/racers/edit.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/views/racers/_form.html.erb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/views/racers/_form.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/views/racers/edit.html.erb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/address.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/address.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/swim_result.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/swim_result.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/run_result.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/run_result.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/racer_info.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/racer_info.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/race_ref.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/race_ref.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/racer.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/racer.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/race.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/race.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/point.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/point.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/placing.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/placing.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/leg_result.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/leg_result.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/event.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/event.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/entrant.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/entrant.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/models/bike_result.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/bike_result.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/helpers/application_helper.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/helpers/application_helper.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/helpers/racers_helper.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/helpers/races_helper.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/controllers/races_controller.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/controllers/races_controller.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/controllers/racers_controller.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/controllers/racers_controller.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/controllers/application_controller.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/controllers/application_controller.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/config/application.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/views/racers/show.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/app/views/racers/show.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/spec/web_registration_spec.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/config/routes.rb",
+		"/home/giuseppe/Downloads/rails-specialization-master (3)/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/config/routes.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/test/controllers/races_controller_test.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/run_result.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/swim_result.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/leg_result.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/bike_result.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/entrant.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/race.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/event.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/racer.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/racer_info.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/placing.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/address.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/app/models/point.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module03/assignment-Mongoid-and-Rails-Scaffold/triresults/config/application.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/Module 3/triresults/Gemfile",
+		"/media/giuseppe/30B6-C271/Sistemas de operacion/requisitosdesimulador.txt",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/HTML-CSS-JS Course/external.css",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/HTML-CSS-JS Course/main.css",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/HTML-CSS-JS Course/index.html",
+		"/home/giuseppe/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/giuseppe/.config/sublime-text-3/Packages/Material Theme - Appbar/Material-Theme-Darker.sublime-theme",
+		"/home/giuseppe/.config/sublime-text-3/Packages/Material Theme - Appbar/README.md",
+		"/home/giuseppe/.config/sublime-text-3/Packages/Material Theme - Appbar/messages.json",
+		"/home/giuseppe/.config/sublime-text-3/Packages/Material Theme - Appbar/package-metadata.json",
+		"/home/giuseppe/.config/sublime-text-3/Packages/Material Theme - Appbar/package.json",
+		"/home/giuseppe/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+		"/home/giuseppe/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/giuseppe/Dropbox/Ruby/Resumen",
+		"/home/giuseppe/Dropbox/Universidad/Arquitectura del computador/ejercicio1.asm",
+		"/home/giuseppe/Dropbox/Universidad/Arquitectura del computador/Ejercicio3.asm",
+		"/media/giuseppe/30B6-C271/key google maps.txt",
+		"/home/giuseppe/Dropbox/Universidad/Arquitectura del computador/TrabajoMips/Ejercicio4_ll.txt",
+		"/home/giuseppe/Dropbox/Universidad/Arquitectura del computador/TrabajoMips/ejercicio5_rd.txt",
+		"/home/giuseppe/Dropbox/Universidad/Arquitectura del computador/TrabajoMips/Ejercicio7_ll.txt",
+		"/home/giuseppe/Dropbox/Universidad/Arquitectura del computador/TrabajoMips/Ejercicio2.asm",
+		"/home/giuseppe/.bashrc",
+		"/home/giuseppe/Dropbox/Universidad/Arquitectura del computador/ejercicio4.asm",
+		"/media/giuseppe/30B6-C271/TrabajoMips/ejercicio6_rd.txt",
+		"/media/giuseppe/30B6-C271/TrabajoMips/Ejercicio2.asm",
+		"/home/giuseppe/Dropbox/Universidad/Arquitectura del computador/Ejercicio2.asm",
+		"/media/giuseppe/30B6-C271/TrabajoMips/Ejercicio 1.txt",
+		"/home/giuseppe/gtkshift",
+		"/home/giuseppe/Dropbox/Ruby/fibonacci.rb",
+		"/home/giuseppe/prueba.html",
+		"/home/giuseppe/Videos/Mad Max Fury Road (2015)/Mad.Max.Fury.Road.2015.720p.BluRay.x264.YIFY.srt",
+		"/home/giuseppe/StudioProjects/TaxiOnline/info/exclude",
+		"/home/giuseppe/StudioProjects/TaxiOnline/config",
+		"/home/giuseppe/StudioProjects/TaxiOnline/.gitignore",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module02/assignment-Advanced-MongoDB-Ruby-Driver/places/app/models/place.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module02/assignment-Advanced-MongoDB-Ruby-Driver/places/db/seeds.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module02/assignment-Advanced-MongoDB-Ruby-Driver/places/app/controllers/photos_controller.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module02/assignment-Advanced-MongoDB-Ruby-Driver/places/config/routes.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module02/assignment-Advanced-MongoDB-Ruby-Driver/places/app/models/photo.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module02/assignment-Advanced-MongoDB-Ruby-Driver/places/app/models/point.rb",
+		"/home/giuseppe/Downloads/Especializacion ROR/rails-specialization-master/graded-assignments/course03/module02/assignment-Advanced-MongoDB-Ruby-Driver/places/app/models/address_component.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/places/app/models/place.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/places/app/views/places/show.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/places/app/views/places/index.html.erb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/places/db/seeds.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/places/app/controllers/photos_controller.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/places/config/routes.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/places/app/models/photo.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/places/app/models/concerns/point.rb",
+		"/home/giuseppe/Dropbox/Ruby/Proyectos coursera/Mongodb/places/app/models/address_component.rb",
+		"/home/giuseppe/Dropbox/Universidad/Traductores e interpretadores/Ejercici4-Practica2.l",
+		"/home/giuseppe/Dropbox/Universidad/Traductores e interpretadores/holamundo.l",
+		"/home/giuseppe/Dropbox/Universidad/Traductores e interpretadores/prueba2.l"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"register",
+			"DEFAULT_EVENTS = {\n    \"swim\" => {:order=>0, :name=>\"swim\", :distance=>1.0, :units=>\"miles\"},\n    \"t1\" => {:order=>1, :name=>\"t1\"},\n    \"bike\" => {:order=>2, :name=>\"bike\", :distance=>25.0, :units=>\"miles\"},\n    \"t2\" => {:order=>3, :name=>\"t2\"},\n    \"run\" => {:order=>4, :name=>\"run\", :distance=>10.0, :units=>\"kilometers\"},\n  }\n\n  DEFAULT_EVENTS.keys.each do |name| \n    define_method(\"#{name}\") do\n      event=events.select {|event| name==event.name}.first\n      event||=events.build(DEFAULT_EVENTS[\"#{name}\"]) \n    end\n    [\"order\",\"distance\",\"units\"].each do |prop| \n      if DEFAULT_EVENTS[\"#{name}\"][prop.to_sym]\n        define_method(\"#{name}_#{prop}\") do \n          event=self.send(\"#{name}\").send(\"#{prop}\")\n        end\n        define_method(\"#{name}_#{prop}=\") do |value|\n          event=self.send(\"#{name}\").send(\"#{prop}=\", value) \n        end\n       end \n    end\n  end\n\n  def self.default \n    Race.new do |race|\n      DEFAULT_EVENTS.keys.each {|leg|race.send(\"#{leg}\")} \n    end\n  end\n\n  [\"city\", \"state\"].each do |action| \n    define_method(\"#{action}\") do\n      self.location ? self.location.send(\"#{action}\") : nil \n    end\n    define_method(\"#{action}=\") do |name| \n      object=self.location ||= Address.new \n      object.send(\"#{action}=\", name) \n      self.location=object\n    end \n  end\n\n  def next_bib\n    #self[:next_bib] = self[:next_bib] + 1\n    self[:next_bib] = self.inc(next_bib: 1)[:next_bib]\n  end\n\n  def get_group racer\n    if racer && racer.birth_year && racer.gender\n      quotient=(date.year-racer.birth_year)/10\n      min_age=quotient*10\n      max_age=((quotient+1)*10)-1\n      gender=racer.gender\n      name=min_age >= 60 ? \"masters #{gender}\" : \"#{min_age} to #{max_age} (#{gender})\"\n      Placing.demongoize(:name=>name) \n    end\n  end\n\n  def create_entrant racer\n    entrant = Entrant.new\n    entrant.race = self.attributes.symbolize_keys.slice(:_id, :n, :date)\n    entrant.racer = racer.info.attributes\n    entrant.group = self.get_group racer\n    events.each do |event|\n      if event\n        entrant.send(\"#{event.name}=\", event)\n      end\n    end\n    entrant.validate\n    if entrant.valid?\n      entrant.bib = next_bib\n      entrant.save\n    end\n    return entrant\n  end\n\n  def self.upcoming_available_to racer\n    upcoming_race_ids = racer.races.upcoming.pluck(:race).map {|r| r[:_id]}\n    self.upcoming.not_in(:id => upcoming_race_ids)\n  end\n\n  before_upsert do |doc|\n    doc.set_updated_at\n  end\n",
+			"span",
+			"addons",
+			"for",
+			"save",
+			"place",
+			"all",
+			"get_country_names",
+			"to_places",
+			"initialize",
+			"caliban",
+			"find",
+			"search",
+			"[]",
+			"@highest_count_words_across_lines",
+			"@highest_count_words_across_lines ",
+			"highest_count_words_across_lines",
+			"persisted",
+			"Concatenacion",
+			"user_id",
+			"User_id",
+			"profile",
+			"background",
+			"footer",
+			"brand",
+			"#logo-container",
+			"#logo-contaienr",
+			"logo",
+			"logo-container",
+			"white",
+			"Person",
+			"lastName",
+			"firstName",
+			"GcTest",
+			"clear",
+			"insert",
+			"insert_point",
+			"voronoi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"p",
+			"Persona",
+			"apellido",
+			"primer_nombre"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								959,
+								959
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"show",
+				"app/views/races/show.html.erb"
+			],
+			[
+				"new",
+				"app/views/races/new.html.erb"
+			],
+			[
+				"index.",
+				"app/views/races/index.html.erb"
+			],
+			[
+				"_form",
+				"app/views/races/_form.html.erb"
+			],
+			[
+				"edit",
+				"app/views/races/edit.html.erb"
+			],
+			[
+				"add",
+				"app/models/address.rb"
+			],
+			[
+				"swim",
+				"app/models/swim_result.rb"
+			],
+			[
+				"run_result",
+				"app/models/run_result.rb"
+			],
+			[
+				"racer_info",
+				"app/models/racer_info.rb"
+			],
+			[
+				"race_ref",
+				"app/models/race_ref.rb"
+			],
+			[
+				"racer.rb",
+				"app/models/racer.rb"
+			],
+			[
+				"race.rb",
+				"app/models/race.rb"
+			],
+			[
+				"point",
+				"app/models/point.rb"
+			],
+			[
+				"placing",
+				"app/models/placing.rb"
+			],
+			[
+				"leg_res",
+				"app/models/leg_result.rb"
+			],
+			[
+				"event",
+				"app/models/event.rb"
+			],
+			[
+				"entrant",
+				"app/models/entrant.rb"
+			],
+			[
+				"bike_",
+				"app/models/bike_result.rb"
+			],
+			[
+				"application_hel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"races_contro",
+				"app/controllers/races_controller.rb"
+			],
+			[
+				"racers_controller",
+				"app/controllers/racers_controller.rb"
+			],
+			[
+				"application",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"appl",
+				"config/application.rb"
+			],
+			[
+				"we",
+				"spec/web_registration_spec.rb"
+			],
+			[
+				"web_regis",
+				"spec/web_registration_spec.rb"
+			],
+			[
+				"races",
+				"app/controllers/races_controller.rb"
+			],
+			[
+				"racer_controller",
+				"app/controllers/racers_controller.rb"
+			],
+			[
+				"racer_cotro",
+				"app/controllers/racers_controller.rb"
+			],
+			[
+				"racers_control",
+				"app/controllers/racers_controller.rb"
+			],
+			[
+				"show.html",
+				"app/views/races/show.html.erb"
+			],
+			[
+				"races_controlle",
+				"app/controllers/races_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"racers_contro",
+				"app/controllers/racers_controller.rb"
+			],
+			[
+				"races_controller",
+				"app/controllers/races_controller.rb"
+			],
+			[
+				"races_controllers",
+				"test/controllers/races_controller_test.rb"
+			],
+			[
+				"appli",
+				"config/application.rb"
+			],
+			[
+				"index",
+				"app/views/places/index.html.erb"
+			],
+			[
+				"place",
+				"app/models/place.rb"
+			],
+			[
+				"photo",
+				"app/controllers/photos_controller.rb"
+			],
+			[
+				"recipe_con",
+				"app/controllers/recipes_controller.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"recipe",
+				"app/models/recipe.rb"
+			],
+			[
+				"db",
+				"config/database.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
